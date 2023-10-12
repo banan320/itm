@@ -2,7 +2,7 @@
   "name": "itm",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://banan320.github.io/itm",
+  "homepage": ".",
   "type": "module",
   "scripts": {
     "dev": "vite --port 3000 --open",
